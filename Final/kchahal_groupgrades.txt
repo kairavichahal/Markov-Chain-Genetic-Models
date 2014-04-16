@@ -1,0 +1,27 @@
+Kairavi Chahal | Group: Tony Yang, Julian Zhou
+36-350 Final Project
+
+Division of Work:
+
+We all collaborated on all aspects of the project, rather than dividing up the
+work. In the code, Tony and I worked as a team on the compute_markov() function,
+which took the longest to complete. Meanwhile, Julian worked on the comparison
+and simulation functions. The presentation was similarly done, with all of us
+contributing to it online. Julian made most of the R graphs, while Tony and I
+actually did the analysis. I made some of the other charts used in explaining
+our algorithms. All three of us had contributed equally to the written content
+of the slides.
+
+Overall, Tony did about 30 percent of the work while Julian and I did 35 percent
+each. I think this was completely fair as Tony had other projects he was working
+on as well, and he still showed up to all group meetings.
+
+Grades:
+
+Tony Yang: I think Tony should get a 90 as he did not significantly contribute
+           to the conceptual ideas of our project and simply did the parts we 
+           told him to do. However, he always did his part.
+
+Julian Zhou: I think Julian deserves a 100 as he knew the most about our project
+             topic and was eager to work on the project even after the group
+             meetings were over.
